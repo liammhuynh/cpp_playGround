@@ -3,7 +3,7 @@ Ex: If the input is:
 -10 20 30 40
 the output is:
 Min miles: -10
-Max miles: 40 /*
+Max miles: 40 */
 
 
 #include <iostream>
