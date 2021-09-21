@@ -71,3 +71,13 @@ int main(int argc, char* argv[])
    }
    return 0;
 }
+
+
+/* Explanation -
+
+In this code, first user input in form of UserIDs are taken as strings and stored in a vector of strings.
+Quicksort is called in the main() to sort the UserIDs.
+Quicksort() function first calls partition() in which the middle value is taken as the pivot, 
+and all the UserIDs smaller then pivot are kept before and greater than pivot are kept after it.
+After this it sort both parts and apply quicksort algorithm recursively 
+to the left and the right parts repeating the same process of pivot selection and division of UserIDs in left part and right part.  */
