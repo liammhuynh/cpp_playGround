@@ -1,8 +1,9 @@
 Write C++ program to roll a six-sided dice once and then we roll a second
 dice as many times as is necessary to obtain the same face as the one obtained in the first dice.
 
-Rules of the Game:
 
+
+Rules of the Game:
 
 
 1- Randomly roll the first dice once (six-sided dice).
