@@ -31,3 +31,6 @@ a. If the user wanted to have another turn, then you will repeat all previous st
 
 b. If user decided to end the game, then output a message to the user “Have a
 great day” and terminate the program.
+
+![image](https://user-images.githubusercontent.com/77704009/134415639-b725aae4-d719-4150-af5c-f7a62c31bb47.png)
+
