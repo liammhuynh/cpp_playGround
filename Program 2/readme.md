@@ -1,8 +1,10 @@
 The game of Sorry is a board game, played with cards, numbered 1-12. The cards are shuffled and
 place face-down, so the numbers can’t be seen. The player draws from the deck, one card at a time, and
 turns the card face up to reveal the number.
+
 We will implement the game, where we have 2 players, and each player has one pawn that need to
 move from the Home point and reach the End point before the other opponent to win the game.
+
 Rules of the Game:
 - The first player now must pick a card. Numbers on card are in the range of 1-12.
 o Player needs 1 or 2 to start his/her turn:
