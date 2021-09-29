@@ -7,7 +7,7 @@ move from the Home point and reach the End point before the other opponent to wi
 
 Rules of the Game:
 - The first player now must pick a card. Numbers on card are in the range of 1-12.
-- 
+
 o Player needs 1 or 2 to start his/her turn:
 
  If number on card is 1, player’s pawn will stand on the Start point.
