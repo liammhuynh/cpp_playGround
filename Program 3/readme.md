@@ -17,8 +17,8 @@ then provide user with following menu:
 4. Price for each product.
 
 - Inventory menu:
-6. Option 1: Output Electronics Supplies to the screen with the total cost of all electronic products.
-7. Option 2: Output Office Supplies to the screen with the total cost of all office products.
-8. Option 3: Output Electronics and Office Supplies to “Summary.txt” with total cost of all
+1. Option 1: Output Electronics Supplies to the screen with the total cost of all electronic products.
+2. Option 2: Output Office Supplies to the screen with the total cost of all office products.
+3. Option 3: Output Electronics and Office Supplies to “Summary.txt” with total cost of all
 electronics supplies and total cost of all office supplies.
 4. Option 4: Quit
